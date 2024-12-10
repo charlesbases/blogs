@@ -1,0 +1,5 @@
+[
+	{ "keys": ["ctrl+r"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} },
+	{ "keys": ["ctrl+up"], "command": "find_prev" },
+	{ "keys": ["ctrl+down"], "command": "find_next" },
+]
